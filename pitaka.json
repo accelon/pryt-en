@@ -1,0 +1,11 @@
+{
+    "name":"pryt-en",
+    "title": "Pariyatti in English|pariyatti",
+    "description":"Pariyatti books from various Author",
+    "lang":"en",    "label":"w,pl,add,bb,end,trailer,cite,pdf,pts,en,cut,paste,by,i,hh,edit,notranslation,missing,editnote",
+    "removeLabels":"su,pdf,pts",
+    "alignment":"pryt-en",
+    "homepage":"https://github.com/accelon/pryt-en",
+    "notesjson":"note",
+    "files":"cma.en.off"
+}
